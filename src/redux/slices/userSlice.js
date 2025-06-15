@@ -22,7 +22,7 @@ const UserSlice = createSlice({
             _id: '',
             email: '',
         },
-        organizations: {
+        organization: {
             activeOrganizations: [],
             clientOrganizations: [],
             ownedOrganizations: []
